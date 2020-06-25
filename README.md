@@ -14,7 +14,7 @@ For all of your security needs.
 
 ## Screenshot
 
-![passGenPic](
+![passGenPic](https://github.com/Lawna12/passwordGenerator/blob/master/passgen.PNG)
 
 
 
